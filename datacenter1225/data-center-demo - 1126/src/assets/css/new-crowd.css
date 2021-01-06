@@ -1,0 +1,355 @@
+.form_date {
+  width: 100px;
+  height: 25px;
+  border: 1px solid #ccc;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important; }
+
+.filter-item {
+  padding-right: 10px; }
+
+.filter-item.active {
+  color: #f75016; }
+
+.source_sr {
+  margin-top: -28px;
+  width: 320px; }
+
+.btn-sure {
+  color: #f75016 !important;
+  background: #ffcfbf;
+  border-radius: 10px; }
+
+.crowd-main .right-sel .row {
+  line-height: 30px;
+  background: #ededed;
+  margin: 0 0 2px; }
+  .crowd-main .right-sel .row .col-md-6 {
+    padding-right: 0; }
+  .crowd-main .right-sel .row .row1 {
+    padding: 0;
+    line-height: 25px;
+    display: flex; }
+    .crowd-main .right-sel .row .row1 .title {
+      width: 65px;
+      font-weight: bold;
+      color: #242424; }
+    .crowd-main .right-sel .row .row1 .content {
+      flex: 1; }
+  .crowd-main .right-sel .row ul li .filter-item {
+    color: #242424; }
+    .crowd-main .right-sel .row ul li .filter-item.active {
+      color: #f75016; }
+
+.crowd-main .container-con {
+  margin: 0 20px;
+  background: #f6f6f6;
+  padding: 20px; }
+  .crowd-main .container-con .task-title {
+    font-size: 25px;
+    font-weight: 600; }
+  .crowd-main .container-con .pull-right {
+    position: absolute;
+    top: -40px;
+    right: 0; }
+  .crowd-main .container-con .current-state {
+    position: absolute;
+    top: -77px;
+    left: -5px; }
+  .crowd-main .container-con .task-content {
+    margin-top: 40px; }
+    .crowd-main .container-con .task-content hr {
+      border: 0;
+      margin: 0; }
+
+.crowd-main .taskapply {
+  background: #f6f6f6;
+  padding: 20px; }
+  .crowd-main .taskapply label {
+    font-size: 16px;
+    color: #676767;
+    height: 35px;
+    line-height: 35px; }
+  .crowd-main .taskapply .form-group {
+    margin-bottom: 20px !important; }
+
+.crowd-main .demand-wrap {
+  position: absolute;
+  top: 0;
+  background: white; }
+  .crowd-main .demand-wrap .row1 {
+    background: #0a0b18;
+    background-image: url("http://www.gscloud.cn/static/icons/crowdsourcing/d2.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    position: relative; }
+    .crowd-main .demand-wrap .row1 .img1 {
+      width: 100%; }
+    .crowd-main .demand-wrap .row1 .img3 {
+      width: 2.48rem;
+      position: absolute;
+      top: 3.45rem;
+      right: 1.6rem; }
+    .crowd-main .demand-wrap .row1 .con1 {
+      position: absolute;
+      top: 2.6rem;
+      left: 2.42rem; }
+      .crowd-main .demand-wrap .row1 .con1 .p1 {
+        font-size: 0.65rem;
+        color: #ffffff;
+        margin-bottom: 0.35rem; }
+        .crowd-main .demand-wrap .row1 .con1 .p1 .a12 {
+          color: #f75016; }
+      .crowd-main .demand-wrap .row1 .con1 .p2 {
+        font-size: 0.25rem;
+        color: #fff;
+        margin-bottom: 0.08rem; }
+        .crowd-main .demand-wrap .row1 .con1 .p2 .a21 {
+          font-weight: bold; }
+        .crowd-main .demand-wrap .row1 .con1 .p2 .a22 {
+          font-weight: lighter;
+          padding-right: 0.25rem; }
+      .crowd-main .demand-wrap .row1 .con1 .p3 {
+        margin-top: 1.1rem; }
+        .crowd-main .demand-wrap .row1 .con1 .p3 input {
+          background: #f75016;
+          padding: 0.1rem 0.3rem;
+          border: 0; }
+    .crowd-main .demand-wrap .row1 .con2 .p1 {
+      width: 12rem;
+      margin: 0 auto;
+      padding: 0.9rem 0;
+      font-size: 0.18rem;
+      color: #fff;
+      font-weight: 200; }
+  .crowd-main .demand-wrap .row2 {
+    width: 15rem;
+    margin: 0 auto 1.27rem; }
+    .crowd-main .demand-wrap .row2 .p1 {
+      font-size: 0.48rem;
+      color: #f75016;
+      font-weight: 600;
+      text-align: center;
+      padding: 0.8rem 0 0.7rem;
+      border-bottom: 1px solid #e0e0e0; }
+    .crowd-main .demand-wrap .row2 .div1 {
+      display: flex; }
+      .crowd-main .demand-wrap .row2 .div1 .dd-left {
+        border-left: 1px solid #e0e0e0; }
+      .crowd-main .demand-wrap .row2 .div1 .dd {
+        flex: 1;
+        border-right: 1px solid #e0e0e0;
+        border-bottom: 1px solid #e0e0e0;
+        text-align: center; }
+        .crowd-main .demand-wrap .row2 .div1 .dd:hover .dp1 {
+          color: #3d56bb; }
+        .crowd-main .demand-wrap .row2 .div1 .dd img {
+          padding: 0.7rem 0 0.4rem; }
+        .crowd-main .demand-wrap .row2 .div1 .dd .dp1 {
+          color: #242424;
+          font-size: 0.25rem;
+          font-weight: 500; }
+        .crowd-main .demand-wrap .row2 .div1 .dd .dp2 {
+          color: #747474;
+          font-size: 0.14rem;
+          padding: 0.3rem 0.7rem 0.5rem; }
+  .crowd-main .demand-wrap .row3 {
+    background: #0a0b18;
+    background-image: url("http://www.gscloud.cn/static/icons/crowdsourcing/d4.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    padding-bottom: 1.72rem; }
+    .crowd-main .demand-wrap .row3 .p1 {
+      font-size: 0.48rem;
+      color: #f75016;
+      font-weight: 600;
+      text-align: center;
+      padding: 0.8rem 0 0.7rem; }
+    .crowd-main .demand-wrap .row3 .row3-con {
+      width: 15rem;
+      margin: 0 auto;
+      color: white; }
+    .crowd-main .demand-wrap .row3 .div1 .dd1 {
+      background: url("http://www.gscloud.cn/static/icons/crowdsourcing/w11.png"); }
+    .crowd-main .demand-wrap .row3 .div1 .dd2 {
+      background: url("http://www.gscloud.cn/static/icons/crowdsourcing/w22.png"); }
+    .crowd-main .demand-wrap .row3 .div1 .dd3 {
+      background: url("http://www.gscloud.cn/static/icons/crowdsourcing/w33.png"); }
+    .crowd-main .demand-wrap .row3 .div1 .dd4 {
+      background: url("http://www.gscloud.cn/static/icons/crowdsourcing/w44.png"); }
+    .crowd-main .demand-wrap .row3 .div1 .dd5 {
+      background: url("http://www.gscloud.cn/static/icons/crowdsourcing/w55.png"); }
+    .crowd-main .demand-wrap .row3 .div1 .dd6 {
+      background: url("http://www.gscloud.cn/static/icons/crowdsourcing/w66.png"); }
+    .crowd-main .demand-wrap .row3 .div1 .dd7 {
+      background: url("http://www.gscloud.cn/static/icons/crowdsourcing/w77.png"); }
+    .crowd-main .demand-wrap .row3 .div1 .dd8 {
+      background: url("http://www.gscloud.cn/static/icons/crowdsourcing/w88.png"); }
+    .crowd-main .demand-wrap .row3 .div1 .dd-img {
+      width: 10rem;
+      height: 5.4rem; }
+      .crowd-main .demand-wrap .row3 .div1 .dd-img .e-img {
+        width: 4.55rem; }
+    .crowd-main .demand-wrap .row3 .div1 .dd {
+      height: 2.71rem;
+      width: 5rem;
+      text-align: center;
+      background-position: 0 10%;
+      background-repeat: no-repeat;
+      background-color: rgba(240, 240, 240, 0.2);
+      background-size: 0.84rem; }
+      .crowd-main .demand-wrap .row3 .div1 .dd:hover {
+        background-color: rgba(240, 240, 240, 0.05); }
+      .crowd-main .demand-wrap .row3 .div1 .dd img {
+        width: 0.38rem;
+        padding: 0.38rem 0 0.3rem; }
+      .crowd-main .demand-wrap .row3 .div1 .dd .dp1 {
+        color: #fff;
+        font-size: 0.2rem;
+        font-weight: 500; }
+      .crowd-main .demand-wrap .row3 .div1 .dd .dp2 {
+        color: #fff;
+        font-size: 0.14rem;
+        font-weight: 200;
+        padding: 0.3rem 0.5rem; }
+  .crowd-main .demand-wrap .row4 {
+    background: #0a0b18;
+    background-image: url("http://www.gscloud.cn/static/icons/crowdsourcing/d6.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    background-position: bottom center; }
+    .crowd-main .demand-wrap .row4 .p1 {
+      font-size: 0.48rem;
+      color: #fff;
+      font-weight: 600;
+      text-align: center;
+      padding: 0.8rem 0 0.7rem; }
+  .crowd-main .demand-wrap .border-bottom1 {
+    border-bottom: 2px solid #15162b; }
+  .crowd-main .demand-wrap .border-left1 {
+    border-left: 2px solid #15162b; }
+  .crowd-main .demand-wrap .border-right1 {
+    border-right: 2px solid #15162b; }
+
+.crowd-main .bg-title1 {
+  background-image: url("http://www.gscloud.cn/static/icons/allicons/fbg1.png"); }
+
+.crowd-main .online-wrap {
+  background: #f6f6f6;
+  padding: 20px; }
+  .crowd-main .online-wrap .title {
+    color: #242424;
+    font-size: 25px;
+    padding: 5px 5px 40px;
+    font-weight: 500; }
+  .crowd-main .online-wrap label {
+    font-size: 16px;
+    color: #676767;
+    height: 35px;
+    line-height: 35px; }
+  .crowd-main .online-wrap .form-group {
+    margin-bottom: 20px !important; }
+
+.enroll-wrap {
+  background: #f6f6f6;
+  padding: 20px; }
+  .enroll-wrap .enroll-row {
+    width: 100%;
+    margin: 0 auto; }
+    .enroll-wrap .enroll-row .title {
+      color: #242424;
+      font-size: 25px;
+      padding: 5px 5px 40px;
+      font-weight: 500; }
+    .enroll-wrap .enroll-row .div-group {
+      display: flex; }
+      .enroll-wrap .enroll-row .div-group .form-item {
+        flex: 1;
+        line-height: 35px;
+        margin-bottom: 20px !important; }
+        .enroll-wrap .enroll-row .div-group .form-item label {
+          font-size: 16px;
+          color: #676767;
+          height: 35px;
+          line-height: 35px; }
+    .enroll-wrap .enroll-row .form-group label {
+      text-align: right; }
+  .enroll-wrap select {
+    word-wrap: normal;
+    width: 100%;
+    height: 35px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    color: #495057; }
+
+.bannerBox {
+  padding-bottom: 2.5rem; }
+  .bannerBox .banner {
+    width: 14rem;
+    min-height: 570px;
+    max-width: 1600px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative; }
+    .bannerBox .banner ul {
+      position: absolute;
+      width: 5.2rem;
+      min-height: 570px;
+      left: 50%;
+      margin-left: -2.6rem; }
+      .bannerBox .banner ul li {
+        background: none;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: 1;
+        transform: scale(0.85); }
+        .bannerBox .banner ul li img {
+          width: 100%; }
+        .bannerBox .banner ul li .img-con .img-a {
+          font-size: 0.25rem;
+          color: white;
+          text-align: center;
+          display: block;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          padding-top: 0.35rem; }
+        .bannerBox .banner ul li .img-con .img-p {
+          font-size: 0.12rem;
+          color: white;
+          padding: 0.2rem; }
+        .bannerBox .banner ul li.on {
+          transform: scale(1);
+          border-left: 1px solid #282835;
+          border-right: 1px solid #282835; }
+
+.banner-btn {
+  width: 100%;
+  position: absolute;
+  width: 12rem;
+  height: 0px;
+  top: 40px;
+  left: 50%;
+  margin-left: -6rem;
+  z-index: 9; }
+
+.banner-btn-prev,
+.banner-btn-next {
+  display: block;
+  width: 2rem;
+  height: 425px;
+  position: absolute; }
+
+.banner-btn-prev {
+  left: -2rem; }
+
+.banner-btn-next {
+  right: -2rem; }
+
+/*# sourceMappingURL=new-crowd.css.map */

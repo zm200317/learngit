@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProductMetaData>
+  <SatelliteID>GF5</SatelliteID>
+  <ReceiveStationID>KRN</ReceiveStationID>
+  <SensorID>AHSI</SensorID>
+  <ProduceTime>2018-12-07 09:43:16</ProduceTime>
+  <ProductLevel>LEVEL1</ProductLevel>
+  <ProductFormat>GEOTIFF</ProductFormat>
+  <SceneID>28548</SceneID>
+  <ProductID>20658</ProductID>
+  <ProduceType>Normal</ProduceType>
+  <BandsCount>330</BandsCount>
+  <BandsID>1:150,151:330</BandsID>
+  <ScenePath>389</ScenePath>
+  <SceneRow>622</SceneRow>
+  <SatPath>389</SatPath>
+  <SatRow>622</SatRow>
+  <OrbitID>3071</OrbitID>
+  <POrbitID>3068</POrbitID>
+  <OrbitType>GPS</OrbitType>
+  <AttType>DMA</AttType>
+  <RollSatelliteAngle>0.000</RollSatelliteAngle>
+  <PitchSatelliteAngle>0.006</PitchSatelliteAngle>
+  <YawSatelliteAngle>-2.916</YawSatelliteAngle>
+  <SolarAzimuth>198.08919</SolarAzimuth>
+  <SolarZenith>65.13604</SolarZenith>
+  <SatelliteAzimuth>158.125258</SatelliteAzimuth>
+  <SatelliteZenith>0.074926</SatelliteZenith>
+  <StartTime>2018-12-05 15:52:11</StartTime>
+  <EndTime>2018-12-05 15:52:20</EndTime>
+  <ImageGSD>30</ImageGSD>
+  <LinesInPixels>2100,2260</LinesInPixels>
+  <SamplesInPixels>2048, 2048</SamplesInPixels>
+  <WidthInMeters>0</WidthInMeters>
+  <HeightInMeters>0</HeightInMeters>
+  <CloudPercent>10</CloudPercent>
+  <GainMode>1.500600, 2.214839</GainMode>
+  <IntegrationTime>4.400000, 4.400000</IntegrationTime>
+  <MapProjection/>
+  <EarthEllipsoid/>
+  <ZoneNo>-1</ZoneNo>
+  <RadiometricMethod>1</RadiometricMethod>
+  <CalibrationParam>Lab, OnObit</CalibrationParam>
+  <CalibrationParamVersion>20181204 0001, 20181204 0001</CalibrationParamVersion>
+  <ScaleFactor/>
+  <ResamplingKernel/>
+  <Denoise>Yes</Denoise>
+  <HeightMode>DEM</HeightMode>
+  <EphemerisData>GPS</EphemerisData>
+  <AttitudeData>DMA</AttitudeData>
+  <CenterLatitude>40.676332</CenterLatitude>
+  <CenterLongitude>77.308961</CenterLongitude>
+  <TopLeftLatitude>40.884985</TopLeftLatitude>
+  <TopLeftLongitude>76.87269</TopLeftLongitude>
+  <TopRightLatitude>41.014019</TopRightLatitude>
+  <TopRightLongitude>77.571148</TopRightLongitude>
+  <BottomRightLatitude>40.467378</BottomRightLatitude>
+  <BottomRightLongitude>77.742426</BottomRightLongitude>
+  <BottomLeftLatitude>40.338947</BottomLeftLatitude>
+  <BottomLeftLongitude>77.04958</BottomLeftLongitude>
+  <TopLeftMapX/>
+  <TopLeftMapY/>
+  <TopRightMapX/>
+  <TopRightMapY/>
+  <BottomRightMapX/>
+  <BottomRightMapY/>
+  <BottomLeftMapX/>
+  <BottomLeftMapY/>
+  <DDSFlag>TRUE</DDSFlag>
+  <SoftwareVersion>1.16.3</SoftwareVersion>
+</ProductMetaData>
